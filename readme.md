@@ -1,6 +1,6 @@
 # flipd.gg autobump
 
-this is a simple autobumper, working on windows with selenium & undetected-chromedriver. the chromedriver.exe file has been modified to bypass cloudflare (see (https://github.com/ultrafunkamsterdam/undetected-chromedriver)[https://github.com/ultrafunkamsterdam/undetected-chromedriver])
+this is a simple autobumper, working on windows with selenium & undetected-chromedriver. the chromedriver.exe file has been modified to bypass cloudflare (see [https://github.com/ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver))
 
 
 
